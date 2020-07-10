@@ -1,0 +1,7 @@
+AFTER DOWNLOADING THE ZIP FILE
+KINDLY FOLLOW THESE STEPS
+
+STEP 1 : UNZIP THE ARCHIVE FILES
+STEP 2 : CREATE A FOLDER CALLED ".idea"
+STEP 3 : MAKE SURE YOU ADD THESE FILES INTO ".idea" FOLDER
+         (ie:copyright,.name,compiler,encodings,gradle,misc,modules,runConfigurations,vcs)
